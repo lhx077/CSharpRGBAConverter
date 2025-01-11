@@ -4,5 +4,5 @@
 Tutorial:
 It's VERY easy,just write like below:
 
-**1:Use function "RGBA2PNG" to convert Raw RGBA Data to PNG File
-2:Use function "PNG2RGBA" to convert PNG File to Raw RGBA Data**
+**1:Use function "RGBA2PNG" to convert Raw RGBA Data to PNG File.
+2:Use function "PNG2RGBA" to convert PNG File to Raw RGBA Data.**
