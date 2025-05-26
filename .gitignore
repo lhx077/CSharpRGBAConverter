@@ -22,3 +22,15 @@ RGBAConverter/obj/RGBAConverter.csproj.nuget.g.props
 RGBAConverter/obj/RGBAConverter.csproj.nuget.g.targets
 RGBAConverter/obj/rider.project.model.nuget.info
 RGBAConverter/obj/rider.project.restore.info
+*.nuspec
+*.pdb
+*.editorconfig
+*.dll
+*.cache
+*.nupkg
+*.xml
+*.json
+*.txt
+RGBAConverter/obj/Release/net6.0/RGBAConverter.GlobalUsings.g.cs
+RGBAConverter/obj/Release/net6.0/RGBAConverter.AssemblyInfo.cs
+RGBAConverter/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs

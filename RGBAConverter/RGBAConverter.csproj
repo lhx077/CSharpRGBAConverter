@@ -9,6 +9,14 @@
         <Authors>lhx077</Authors>
         <Company>lhx077</Company>
         <AssemblyVersion>1.0.0</AssemblyVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>A C# library that can convert Raw RGBA data to PNG,and convert PNG to Raw RGBA data in a easiest way!</Description>
+        <Copyright>Apache 2.0</Copyright>
+        <PackageProjectUrl>https://github.com/lhx077/CSharpRGBAConverter</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/lhx077/CSharpRGBAConverter/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/lhx077/CSharpRGBAConverter</RepositoryUrl>
+        <RepositoryType>Open Source</RepositoryType>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
     <ItemGroup>
